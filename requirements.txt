@@ -1,0 +1,2 @@
+georef @ git+ssh://git@github.com/wavesnsee/georef@main
+opencv-python-headless
